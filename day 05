@@ -1,0 +1,11 @@
+print ("hello) -This mistake is taken palce when there is no inverted commas, here is the correct example print ("hello")
+# salary : 1000   print (salary) This mistake is that instead of an = i put a :
+# Age = 10 print (age) this mistake is that i used a lowercase and upercase letter for age (which will semd an ERROR to the computer)
+year = 2024 print (year) this mistake is that i did not add a # to the begining
+# app = youtube print app    this mistake is that i did not include a pair of () 
+print hello   this mitake is spotted when i used no () for the word hello
+print ("hello" this mistake is that i did not add the closing ) this will end an error and i wont go through sucsesfully 
+# month - febuary the mistake is that instead of an eaqual sign =    i put a -
+# 2print ("hi") this mistake is that at the start there is an error because i included a number 
+print (hello)   this mistake is spotted when i did not include inverted commas ""
+       
