@@ -1,0 +1,7 @@
+print("ana pipia")
+print("nika gvilia")
+print("mari gvilia")
+print("nini gvili") 
+print("vika gvilia") 
+print("emily gvilia")  
+print("this is day 03")
