@@ -4,8 +4,7 @@ while GOA!=("Yes"):
 
 GOA2= (input ("Thats great,What group do you study in?"))
 while GOA2!=("Group 13"):
-     print ("Nice have a good time!")
-
+    print ("Nice have a good time!")
 GOA3= (input ("Is Gabriel your mentor?:  "))
 while GOA3!=("Yes"):
     print("You ARNT in group 13, You lied!!")
