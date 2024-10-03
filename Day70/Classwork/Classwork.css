@@ -1,0 +1,11 @@
+.p1{
+    text-transform: uppercase;
+    Text-decoration: underline
+}
+.p2{
+    text-decoration: line-through;
+}
+.p3{
+    text-transform: capitalize;
+    text-decoration: underline;
+}
