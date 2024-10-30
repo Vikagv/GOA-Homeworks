@@ -1,0 +1,10 @@
+.Parent-Div{
+    background-color: cadetblue;
+    width: 1000px;
+    height: 1000px;
+}
+.Child-div{
+    background-color: antiquewhite;
+    width: 50%;
+    height: 50%;
+}
