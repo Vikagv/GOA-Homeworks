@@ -1,0 +1,15 @@
+.p1{
+        text-align: center;
+        text-shadow: 5px 2px 1px rgb(255, 255, 255);
+        background-color: rgb(179, 255, 179);
+}
+.p2{
+    text-align: center;
+    text-shadow: 5px 2px 1px rgb(255, 255, 255);
+    background-color: rgb(3, 252, 3);    
+}
+.p3{
+    text-align: center;
+    text-shadow: 5px 2px 1px white;
+    background-color: darkgreen;    
+}
