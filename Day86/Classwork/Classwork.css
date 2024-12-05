@@ -1,0 +1,6 @@
+table{
+    border-top: 6px solid rgb(255, 0, 0);
+    border-left: 4px dashed rgb(234, 0, 255);
+    border-right: 10px solid rgb(38, 0, 255);
+    border-bottom: 3px dotted rgb(0, 204, 255);
+}
