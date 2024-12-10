@@ -1,0 +1,9 @@
+.p1{
+    transition: 2s;
+}
+
+.p1:hover{
+ color: chartreuse;  
+ text-shadow: 6px,3px,30px blueviolet;
+ size: 20px;
+}

@@ -1,0 +1,10 @@
+.parent:hover{
+    width: 300;
+    height: 300;
+    background-color: black;
+    color: blue;
+}
+
+.parent:transition{
+    color: red
+}

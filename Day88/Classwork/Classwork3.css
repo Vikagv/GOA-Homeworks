@@ -1,0 +1,12 @@
+.div{
+height: 150;
+width: 150;
+background-color: black;
+border: double cyan;
+}
+.div-hover{
+border: dashed;
+}
+.div{
+    transition: 2s;
+}
