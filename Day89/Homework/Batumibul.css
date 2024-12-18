@@ -1,0 +1,13 @@
+body{
+    background-image: url(boul.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.h1{
+    color: white;
+}
+.h2{
+    color: white;
+}

@@ -1,0 +1,46 @@
+.b1{
+    background-color:  white;
+}
+.b2{
+    background-color:  white;
+}
+.b3{
+    background-color:  white;
+}
+.b4{
+    background-color:  white;
+}
+.b5{
+    background-color:  white;
+}
+.b6{
+    background-color:  white;
+}
+.b7{
+    background-color:  white;
+}
+.b8{
+    background-color: white;
+}
+.b9{
+    background-color: white;
+}
+.b10{
+    background-color: white
+}
+body{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.p3{
+    color:white
+}
+.f1{
+ background-color: black;
+}
+.f2{
+    color:white
+}

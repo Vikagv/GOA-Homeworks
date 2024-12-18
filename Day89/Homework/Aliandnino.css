@@ -1,0 +1,14 @@
+body{
+    background-image: url(Aliandnino.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.p1{
+    color: white;
+    font-size: 20px;
+}
+.p2{
+    color: white;
+}
