@@ -1,0 +1,24 @@
+.p1{
+    border: double blue;
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    padding: center;
+    margin: left;
+}
+.p2{
+    border: double red;
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    padding: center;
+    margin: left;
+}
+.p3{
+    border: double yellow;
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    padding: center;
+    margin: left;
+}
