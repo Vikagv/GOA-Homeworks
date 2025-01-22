@@ -11,6 +11,7 @@ p{
     font-family: "Outfit", serif;
     color: #575351
 }
+
 #Recipe-card{
     background-color: #fff;
     margin: 4rem auto;
@@ -22,7 +23,6 @@ p{
     color:#2a2827;
     margin: 1rem 0rem;
 }
-
 .omel{
     width: 655px;
     border-radius: 7px;
