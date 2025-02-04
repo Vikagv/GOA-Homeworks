@@ -1,0 +1,39 @@
+*{
+    text-decoration: none;
+}
+.NavBar{
+    background: blue;
+    font-family: serif;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.NavDiv{
+display: flex;align-items: center;
+justify-content: space-between;
+}
+.Name{
+    font-size: 35px;
+    color: white;
+}
+.li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+}
+button{
+    background-color: blue;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 90px;
+}
+button a{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
