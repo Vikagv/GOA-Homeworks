@@ -1,0 +1,78 @@
+.Bigdiv{
+    display: flex;
+    align-items: center;
+    height: 300px;
+}
+.Div{
+    display: flex;
+    background-color: blue;
+    transform: RotateX(50);
+    transform: TranslateX(-30);
+    transform: skewX(40);
+    transform: scaleY(90);
+    width: 200px;
+    height: 100px;
+}
+.Bigdiv1{
+    display: flex;
+    align-items: center;
+    height: 300px;
+}
+.Div1{
+    display: flex;
+    background-color: orange;
+    transform: RotateX(59);
+    transform: TranslateX(-80);
+    transform: skewX(43);
+    transform: scaleY(34);
+    width: 100px;
+    height: 50px;
+}
+.Bigdiv2{
+    display: flex;
+    align-items: center;
+    height: 390px;
+}
+.Div2{
+    display: flex;
+    background-color: rgb(9, 255, 0);
+    transform: RotateX(40);
+    transform: TranslateX(-20);
+    transform: skewX(47);
+    transform: scaleY(35);
+    position: sticky;
+    width: 20px;
+    height: 100px;
+}
+.Bigdiv3{
+    display: flex;
+    align-items: center;
+    height: 200px;
+}
+.Div3{
+    display: flex;
+    background-color:purple;
+    transform: RotateX(90);
+    transform: TranslateX(-20);
+    transform: skewX(90);
+    transform: scaleY(50);
+    position: absolute;
+    width: 239px;
+    height: 170px;
+}
+.Bigdiv4{
+    display: flex;
+    align-items: center;
+    height: 400px;
+}
+.Div4{
+    display: flex;
+    background-color: red;
+    transform: RotateX(50);
+    transform: TranslateX(-60);
+    transform: skewX(45);
+    transform: scaleY(99);
+    position: sticky;
+    width: 450px;
+    height: 300px;
+}
