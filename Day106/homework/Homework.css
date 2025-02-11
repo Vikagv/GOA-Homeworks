@@ -1,0 +1,25 @@
+.Twitter{
+    border: 5px solid black ;
+    height: 600px ;
+    width: 500px ;
+    border-top-left-radius:10px;
+    border-top-left-radius:20px;
+    border-top-left-radius:30px;
+    border-top-left-radius:40px
+}
+.twittericon{
+    width: 200px;
+    height:200px;
+} 
+.b1{
+background-color: black;
+color: white;
+height: 100px ;
+width: 200px ;
+border: 1px solid black;
+border-top-left-radius:10px;
+border-top-left-radius:10px;
+border-top-left-radius:10px;
+border-top-left-radius:10px
+}
+
