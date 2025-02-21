@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+body{
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+
+main{
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+    position: relative;
+    justify-content: start;
+    align-items: center;
+    gap: 20px;
+    flex-direction: column;
+}
+.M-section{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    padding: 300px;
+    gap: 50px;
+}
+
+.about-Mercedes-Benz{
+    position: sticky;
+    top: 30%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    justify-content: start;
+    align-items: center;
+
+}
+.about-Mercedes-Benz h1{
+    font-size: 3rem;
+}
+.about-Mercedes-Benz p{
+    font-size: 1.4rem;
+}
+.Mercedes-Benz-photo{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    gap: 250px;
+}
+.Mercedes-Benz-photo img{
+    width: 100%;
+}
