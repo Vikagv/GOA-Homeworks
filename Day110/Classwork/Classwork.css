@@ -1,0 +1,33 @@
+body{
+    background-image: url(Money.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container {
+    width: 100%;
+    background-color: rgb(143, 142, 142);
+    border-radius: 12px;
+    height: 20px;
+}
+
+.loadingDiv {
+    border-radius: 12px;
+    width: 0%;
+    height: 100%;
+    background-color: rgb(4, 185, 4);
+    animation-name: loadingBar; /*animation-nameში ვწერთ ანიმაციის სახელს*/
+    animation-duration: 6s; 
+    animation-delay: 7s;
+}
+
+@keyframes loadingBar {
+    from {
+        width: 0%;
+    }
+    to {
+        width: 100%;
+    }
+}
