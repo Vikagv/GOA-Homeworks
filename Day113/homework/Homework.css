@@ -1,0 +1,9 @@
+.content{
+    background-color: hsl(217, 54%, 11%);
+    color:white
+}
+.divider{
+    background-color: #e2e2e2;
+    height: 1px;
+    margin: 2rem 0rem;
+}
