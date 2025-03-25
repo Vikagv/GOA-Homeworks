@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3cap;
+    border:1px rgb(0, 166, 255) solid;
+    width: 530px;
+    color: white;
+    font-family: monospace;
+}
+
+h1 {
+    color: whitesmoke;
+    font-family: monospace;
+}
+
+body {
+    background-image: url(image\ copy\ 3.png);
+}
+
+h1 {
+    text-align: center;
+}
