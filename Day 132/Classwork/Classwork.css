@@ -1,0 +1,22 @@
+.smalldiv1{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    border: solid, black;
+    align-items: center;
+    }
+.smalldiv2{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    border: solid, black;
+    display: flex;
+    align-items: center;
+}
+.smalldiv3{background-color: green;
+    width: 300px;
+    height: 300px;
+    border: solid, black;
+    display:flex;
+    align-items: center;
+}

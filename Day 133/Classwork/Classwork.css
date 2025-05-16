@@ -1,0 +1,16 @@
+.parent{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.parent1{
+    display: flex;
+    flex-direction: column;   
+    gap: 20px;
+}
+.child{
+    border: 2px solid black;
+    width: 50px;
+    height: 50px;
+}
+
