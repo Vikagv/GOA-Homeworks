@@ -1,0 +1,24 @@
+.top{
+    background-color: rgb(243, 137, 51);
+    height: 200px;
+    width: 1075px;
+}
+.brown{
+    height: 50px;
+    width: 100px;
+}
+.parent{
+    background-color: peachpuff;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    height:500px;
+    width: 1075px;
+    justify-content: center;
+    align-items: center;
+}
+.child{
+    background-color: rgb(243, 137, 51) ;
+    height:400px ;
+    width: 200px;
+}

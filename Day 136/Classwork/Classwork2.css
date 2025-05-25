@@ -1,0 +1,22 @@
+.parent{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    border: 5px solid black ;
+    height:500px;
+    width: 800px;
+    justify-content:left;
+    margin: 20px;
+    align-items: end;
+}
+.div1{
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+
+}
+.div2{
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+}

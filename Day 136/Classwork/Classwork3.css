@@ -1,0 +1,23 @@
+.parent{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    border: 10px solid black ;
+    height:500px;
+    width: 800px;
+    justify-content: center;
+    align-items: center;
+
+}
+.div1{
+    height: 100px;
+    width: 100px;
+    border: 10px solid black;
+
+}
+.div2{
+    height: 100px;
+    width: 100px;
+    border: 10px solid black;
+
+}
