@@ -1,0 +1,34 @@
+.Green{
+    height: 400px;
+    width: 100%;
+    background-color: green;
+    border:  10px black solid ;
+}
+.red{
+    height: 500px;
+    width: 40%;
+    background-color: red;
+    border:  10px black solid ;
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.OY{
+    display: flex;
+    flex-direction: column;
+    border:  10px black solid ;
+}
+.orange{
+    height: 250px;
+    width: 50%;
+    background-color: orange;
+    border:  10px black solid ;
+}
+.yellow{
+    height: 250px;
+    width: 50%;
+    background-color: yellow;
+    border:  10px black solid ;
+}
