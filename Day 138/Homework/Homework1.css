@@ -1,14 +1,17 @@
+body{
+    background-color: black;
+}
 .Green{
     height: 400px;
     width: 100%;
     background-color: green;
-    border:  10px black solid ;
+    border:  5px black solid ;
 }
 .red{
     height: 500px;
-    width: 40%;
+    width: 100%;
     background-color: red;
-    border:  10px black solid ;
+    border:  5px black solid ;
 }
 .parent{
     display: flex;
@@ -18,17 +21,18 @@
 .OY{
     display: flex;
     flex-direction: column;
-    border:  10px black solid ;
+    border:  5px black solid ;
+    width: 100%;
 }
 .orange{
     height: 250px;
-    width: 50%;
+    width: 100%;
     background-color: orange;
-    border:  10px black solid ;
+    border:  5px black solid ;
 }
 .yellow{
     height: 250px;
-    width: 50%;
+    width: 100%;
     background-color: yellow;
-    border:  10px black solid ;
+    border:  5px black solid ;
 }

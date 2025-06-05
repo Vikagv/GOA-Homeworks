@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+.parent1{
+    display: flex;
+    flex-direction: row;
+}
+.parent2{
+    display: flex;
+    flex-direction: row;
+}
+.parent3{
+    display: flex;
+    flex-direction: row;
+}
+.d1{
+    background-color: darkred;
+    width: 100%;
+    height: 300px;
+    border-radius: 20px;
+}
+.d2{
+    background-color: orange;
+    width: 50%;
+    height:300px;
+    border-radius: 50%;
+}
+.d3{
+    background-color: yellow;
+    width: 40%;
+    height:300px;
+}
+.d4{
+    background-color: purple;
+    width: 70%;
+    height: 300px;
+    border-radius: 20px;
+}
+.d5{
+    background-color: grey;
+    width: 30%;
+    height:300px;
+    border-radius: 50%;
+}

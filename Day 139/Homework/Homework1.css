@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(0, 29, 0);
+}
+.parent{
+    display: flex;
+    background-color: yellow;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+.div1{
+    width: 90px;
+    height: 60px;
+    border-radius:50% ;
+    background-color: black;
+    position: relative;
+    left: 60px;
+    top: 50px;
+    margin: 50px;
+}
+.div3{
+    width: 340px;
+    height: 20px;
+    background-color: black;
+    position: relative;
+    right: 60px;
+    top: 240px;
+}
+.div2{
+    width: 90px;
+    height: 60px;
+    border-radius:50% ;
+    background-color: black;
+    position: relative;
+    left: 60px;
+    top: 50px;
+    margin: 50px;
+}
+.imgparent{
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    border: 5px solid black;
+}

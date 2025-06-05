@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+.Main{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.d1{
+    background-color: darkred;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border: 5px solid white;
+}
+.d2{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border: 5px solid white;
+}
+.d3{
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border: 5px solid white;
+}
+.d4{
+    background-color: lime;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border: 5px solid white;
+}
