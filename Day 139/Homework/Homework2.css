@@ -5,6 +5,7 @@ body{
     justify-content: space-around;
     display: flex;
     flex-direction: row;
+    padding-top: 100px;
 }
 .parent1{
     display: flex;
