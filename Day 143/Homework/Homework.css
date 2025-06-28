@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Inter", sans-serif;
+}
+.food{
+    position: relative;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    gap: 100px;
+    width: 35rem;
+    background: url(
+    https://media.discordapp.net/attachments/1268246032836198420/1387464311768879134/image.png?ex=685d7055&is=685c1ed5&hm=cac6dfee869899e22560ced585cb1ad00a6c795cc6099fef6cdb9ddd3c59afa6&=&format=webp&quality=lossless);
+    background-repeat: no-repeat;
+    background-position: 240px 45px;
+    border-radius: 15px;
+    margin:20px;
+    
+}  
+
+.food h2 span{
+    font-size: 14px;
+    opacity: 50%;
+}
+.food h2{
+    font-size: 1.8rem;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: white;
+}
+.food button{
+   padding: 15px 50px; 
+   font-size: 1.2rem;
+   font-weight: bold;
+   border-radius: 70px;
+   border: none;
+   color: hsl(172, 21%, 51%);
+}
+.food-bg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 35rem;
+    height: 310px;
+    z-index: -1;
+    border-radius: 15px;
+    background: linear-gradient(to right, hsl(172, 21%, 51%), hsl(180, 16%, 86%));
+}
