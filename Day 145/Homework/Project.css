@@ -1,0 +1,28 @@
+body{
+    background-image:url("image\ copy.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.Main_text{
+    color: white;
+}
+.S1{
+    color: white;
+}
+.b{
+    border-radius: 50px;
+    opacity: 30px;
+    text-decoration: none;
+}
+.img{
+    display: flex;
+    flex-direction: row;
+}
+a{
+    text-decoration: none;
+    color: darkgreen;
+}
+img{
+    border-radius: 500px;
+}
