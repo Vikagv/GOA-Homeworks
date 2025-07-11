@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(216, 139, 199);
+    background-color: rgb(35, 59, 2);
     padding: 0;
     margin: 0;
     height: 100vh;
@@ -10,7 +10,7 @@ body{
     padding-right: 700px;
 }
 .Main{
-    background-color: rgb(252, 205, 103);
+    background-color: rgb(0, 105, 44);
     border: 2px solid white;
     border-radius: 30px;
     margin: 40px auto;
@@ -18,10 +18,10 @@ body{
     box-shadow: 0 6px 20px white;
 }
 .text{
-    background-color: rgb(145, 248, 255);
+    background-color: rgb(0, 7, 105);
     border: 2px solid white;
     border-radius: px;
-    background: linear-gradient(to bottom, white, pink);
+    background: linear-gradient(to bottom, white, rgb(59, 122, 53));
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
