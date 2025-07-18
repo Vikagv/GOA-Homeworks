@@ -21,7 +21,7 @@ console.log(sum5)
 let sum6 = Num1 % Num2
 console.log(sum6)
 
-alert(sum1+sum2+sum3+sum4+sum5+sum6)
+
 
 
 
