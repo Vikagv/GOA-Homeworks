@@ -24,7 +24,3 @@ console.log(sum6)
 
 
 
-
-
-
-
