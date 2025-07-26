@@ -4,6 +4,7 @@
 let num1 =Number (prompt("Enter your first number"))
 let num2 =Number (prompt("Enter your Second number"))
 let operation = prompt (" Choose opperation */-+")
+let result 
 
 if ( operation === "+"){
     result = num1 + num2
