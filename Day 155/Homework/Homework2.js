@@ -1,7 +1,6 @@
 //Print all even numbers from 1 to 100.
 
-for(let sum = 1; sum < 101; sum ++){
-    if(sum % 2){
-        console.log(sum)
-    }
+const num =100
+for (let num2 = 1;num2 < num; num2 +=2){
+    console.log(num2)
 }
