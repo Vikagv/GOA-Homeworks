@@ -4,8 +4,6 @@
 let usernum1 = Number(prompt("Enter first Number:"))
 let usernum2 = Number(prompt("Enter second Number:"))
 
-let sum = usernum1 + usernum2
-
-for(let i = 1; i < sum; i ++){
+for(let i = usernum1; i < usernum2; i ++){
     console.log(i)
 }
